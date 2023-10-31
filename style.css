@@ -178,7 +178,7 @@
 }
 .hero-msg{
     display: flex;
-    background-color: white;
+    background-color: #f5f6f6;
     color: black;
     height: 40px;
     align-items: center;
